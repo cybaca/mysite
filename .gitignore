@@ -153,6 +153,7 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+gen_secret_key.bash
 
 *.sock
 staticfiles/
